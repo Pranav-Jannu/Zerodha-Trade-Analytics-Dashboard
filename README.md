@@ -10,6 +10,8 @@ The code automates the process of generating a tradebook and calculating the fol
 - **Active Trades**: Tracking positions for each symbol, including costs and quantities.
 - **Cumulative PnL**: Cumulative profit and loss from realized trades.
 
+Note: The data included in this repository has been multiplied by a random factor to protect the privacy of the individuals involved
+
 ## Project Structure
 
 - **`tradebook_builder.py`**: This script builds the initial tradebook DataFrame from your trading data.
